@@ -35,22 +35,72 @@
 ![Blockchain Forensics](https://img.shields.io/badge/Blockchain-Forensics-green?style=for-the-badge)
 ![Penetration Testing](https://img.shields.io/badge/Penetration-Testing-purple?style=for-the-badge)
 
+### 🎯 Professional Portfolio
+
+<details>
+<summary><b>🔍 Security Audits & Findings</b></summary>
+<br>
+
+| Project | Category | Severity | Status |
+|---------|----------|-----------|---------|
+| [Protocol Name] | DeFi | High | Fixed ✅ |
+| [Protocol Name] | NFT | Critical | Fixed ✅ |
+| [Protocol Name] | Lending | Medium | In Review 🔄 |
+
+➡️ [View Full Audit Portfolio](your-audit-portfolio-link)
+</details>
+
+<details>
+<summary><b>🏆 Achievements & Certifications</b></summary>
+<br>
+
+- 🥇 Top 10 Security Researcher @ [Platform Name]
+- 🎓 Certified Blockchain Security Professional
+- 🏅 [Relevant Certification or Achievement]
+- 💡 [Notable Contest Performance]
+
+</details>
+
+<details>
+<summary><b>📊 DeFi Research & Publications</b></summary>
+<br>
+
+- 📝 [Title of Your Research Paper/Article]
+- 🔍 [Security Analysis Publication]
+- 📈 [Market Analysis or Technical Deep Dive]
+
+</details>
+
+### 🛠 Technical Skills
+
+// ... existing technical skills section ...
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aimaneth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aimaneth&theme=tokyonight"/>
 </div>
 
-### 🌐 Connect with Me
-- Twitter: [@aimaneth](https://twitter.com/aimaneth)
-- LinkedIn: [in/aimaneth](https://linkedin.com/in/aimaneth)
-- Threads: [@aiman.eth](https://www.threads.net/@aiman.eth)
+### 🤝 Let's Connect
 
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aimaneth&show_icons=true&theme=radical" alt="aimaneth" />
-</p>
+<div align="center">
+  <a href="https://twitter.com/aimaneth" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/aimaneth" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
-### 🔥 Featured Projects
-- [Foundry Full Course](https://github.com/aimaneth/foundry-full-course-cu) - Blockchain Security Research
-- [Audit Portfolio](https://github.com/aimaneth/Audit-portfolio) - Collection of Smart Contract Audits
-- [BerkatFarm](https://github.com/aimaneth/BerkatFarm) - DeFi Project
+---
+
+<div align="center">
+  <i>💡 "Smart contracts should be secure by design, not by accident."</i>
+</div>
 
 ### 🌍 Based in Malaysia
 Currently working on securing the Web3 ecosystem and contributing to blockchain security research.
