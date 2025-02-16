@@ -4,10 +4,10 @@
 <div align="center">
 
 ### 🔭 About Me
-- 🔐 Specializing in Web3 Security Research and Smart Contract Development
-- ⚡ Proficient in **Solidity** and **Rust** for blockchain development
-- 🔍 Experienced in on-chain investigations and security audits
-- 🌱 Currently focused on blockchain security research and smart contract auditing
+ 🔐 Specializing in Web3 Security Research and Smart Contract Development
+ ⚡ Proficient in **Solidity** and **Rust** for blockchain development
+ 🔍 Experienced in on-chain investigations and security audits
+ 🌱 Currently focused on blockchain security research and smart contract auditing
 
 ### 🎯 Professional Portfolio
 
