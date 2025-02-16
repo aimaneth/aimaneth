@@ -4,46 +4,11 @@
 <div align="center">
 
 ### 🔭 About Me
- 🔐 Specializing in Web3 Security Research and Smart Contract Development
- ⚡ Proficient in **Solidity** and **Rust** for blockchain development
- 🔍 Experienced in on-chain investigations and security audits
- 🌱 Currently focused on blockchain security research and smart contract auditing
 
-### 🎯 Professional Portfolio
-
-<details>
-<summary><b>🔍 Security Audits & Findings</b></summary>
-<br>
-
-| Project | Category | Severity | Status |
-|---------|----------|-----------|---------|
-| [Protocol Name] | DeFi | High | Fixed ✅ |
-| [Protocol Name] | NFT | Critical | Fixed ✅ |
-| [Protocol Name] | Lending | Medium | In Review 🔄 |
-
-➡️ [View Full Audit Portfolio](your-audit-portfolio-link)
-</details>
-
-<details>
-<summary><b>🏆 Achievements & Certifications</b></summary>
-<br>
-
-- 🥇 Top 10 Security Researcher @ [Platform Name]
-- 🎓 Certified Blockchain Security Professional
-- 🏅 [Relevant Certification or Achievement]
-- 💡 [Notable Contest Performance]
-
-</details>
-
-<details>
-<summary><b>📊 DeFi Research & Publications</b></summary>
-<br>
-
-- 📝 [Title of Your Research Paper/Article]
-- 🔍 [Security Analysis Publication]
-- 📈 [Market Analysis or Technical Deep Dive]
-
-</details>
+- 🔐 Specializing in Web3 Security Research and Smart Contract Development
+- ⚡ Proficient in **Solidity** and **Rust** for blockchain development
+- 🔍 Experienced in on-chain investigations and security audits
+- 🌱 Currently focused on blockchain security research and smart contract auditing
 
 ### 🛠 Technical Skills
 
