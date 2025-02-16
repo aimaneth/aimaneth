@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aiman</h1>
 <h3 align="center">Web3 Security Researcher | Smart Contract Engineer | On-Chain Investigator</h3>
 
+<div align="center">
+
 ### 🔭 About Me
 - 🔐 Specializing in Web3 Security Research and Smart Contract Development
 - ⚡ Proficient in **Solidity** and **Rust** for blockchain development
@@ -44,8 +46,6 @@
 </details>
 
 ### 🛠 Technical Skills
-
-<div align="center">
 
 **🔗 Blockchain & Smart Contracts**  
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
