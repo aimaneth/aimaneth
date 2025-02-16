@@ -78,6 +78,17 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aimaneth&theme=tokyonight"/>
 </div>
 
+---
+
+<div align="center">
+  <i>💡 "Smart contracts should be secure by design, not by accident."</i>
+</div>
+
+### 🌍 Based in Malaysia
+Currently working on securing the Web3 ecosystem and contributing to blockchain security research.
+
+---
+
 ### 🤝 Let's Connect
 
 <div align="center">
@@ -91,17 +102,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
----
-
-<div align="center">
-  <i>💡 "Smart contracts should be secure by design, not by accident."</i>
-</div>
-
-### 🌍 Based in Malaysia
-Currently working on securing the Web3 ecosystem and contributing to blockchain security research.
-
----
-<p align="center">
-<i>Let's connect and build a more secure Web3 future together!</i>
-</p>
